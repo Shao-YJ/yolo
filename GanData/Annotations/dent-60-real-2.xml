@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>dent_60_real_2.jpg</filename>
+	<path>G:\bishe\data gan\dent_60_real.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>123</ymin>
+			<xmax>179</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

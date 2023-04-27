@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>nick_14_real_4.jpg</filename>
+	<path>G:\bishe\data gan\nick_14_real.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>61</ymin>
+			<xmax>125</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>165</ymin>
+			<xmax>83</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

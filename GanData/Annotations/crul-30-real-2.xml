@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>crul_30_real_2.jpg</filename>
+	<path>G:\bishe\data gan\crul_30_real.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>106</ymin>
+			<xmax>244</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crul</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>86</ymin>
+			<xmax>66</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

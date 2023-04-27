@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>crack_10_fake_3.jpg</filename>
+	<path>G:\bishe\data gan\crack_10_fake.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>118</ymin>
+			<xmax>191</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>materiai_miss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>189</ymin>
+			<xmax>71</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

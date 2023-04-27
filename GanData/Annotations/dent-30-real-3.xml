@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>dent_30_real_3.jpg</filename>
+	<path>G:\bishe\data gan\dent_30_real.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>123</ymin>
+			<xmax>184</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>136</ymin>
+			<xmax>152</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

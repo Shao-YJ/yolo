@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data gan</folder>
+	<filename>crack_3_real_4.jpg</filename>
+	<path>G:\bishe\data gan\crack_3_real.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>135</ymin>
+			<xmax>98</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
